@@ -19,7 +19,9 @@ Top Languages:
     <img alt="Most used languages" height="190" src="https://github-stats-extended.vercel.app/api/top-langs?username=Apprentice-Geo&layout=compact&langs_count=8&hide_border=true&card_width=340&theme=default&title_color=2ea043">
   </picture>
 </div>
----
+
+<hr>
+
 <div align="center">
 <!--
 3D Contribution Calendar:
